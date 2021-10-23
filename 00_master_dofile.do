@@ -6,9 +6,6 @@
 
 clear all
 
-// CFPS原始数据全部放在某个文件夹根目录，不设子文件夹，设定 $cfpsraw
-// 数字乡村项目文件夹下设dta、dofile、output等子文件夹，设定 $dgtl
-*CFPS SafeHouse Settings
 *global cfpsraw ""
 *global dgtl    ""
 
